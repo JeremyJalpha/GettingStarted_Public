@@ -55,7 +55,7 @@ General learning list:
 ----------------------
 
 Development Frameworks/Libraries:
-Gatsby, Ionic
+.Net Statiq, Gatsby, Ionic
 
 Other / General:
 Svelte, ReactNative + Redux + Expo
