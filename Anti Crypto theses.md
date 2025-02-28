@@ -42,7 +42,7 @@ modified: 2023-06-30T22:59:40+02:00
  - Bitcoin is not legal or recognised as legal tender
    - What is a signature and how do signatures hold up the legal framework?
  - Bitcoin is a scam or pyramid scheme
-   - Where driver / admin key? - See king of the hills. 
+   - Where driver / admin key? 
 
 # Repeats
 
